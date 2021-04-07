@@ -1,0 +1,103 @@
+$hasBinds: true
+$iid: 123
+$observableInitialized: true
+activeCounter: 0
+activeErrorsTpl: (5) ["<tpl if="errors && errors.length">", "<ul class="{listCls}">", "<tpl for="errors"><li>{.}</li></tpl>", "</ul>", "</tpl>"]
+activeUI: "default"
+allowBlank: true
+alwaysOnTop: false
+anchor: "100%"
+anchorSpec: {bottom: null, right: ?}
+ariaAttributes: {}
+ariaEl: constructor {dom: textarea#ckeditor-1060-inputEl.x-form-field.x-form-text.x-form-text-default.x-form-textarea, id: "ckeditor-1060-inputEl", el: constructor, longpressListenerCount: 0, $observableInitialized: true, бн}
+ariaErrorEl: constructor {dom: span#ckeditor-1060-ariaErrorEl.x-hidden-clip, id: "ckeditor-1060-ariaErrorEl", el: constructor, longpressListenerCount: 0, $observableInitialized: true, бн}
+ariaHelpEl: null
+ariaRenderAttributes: null
+ariaStatusEl: constructor {dom: span#ckeditor-1060-ariaStatusEl.x-hidden-offsets, id: "ckeditor-1060-ariaStatusEl", el: constructor, longpressListenerCount: 0, $observableInitialized: true, бн}
+ariaUsesMainElement: false
+autoGenId: true
+bind: {value: constructor}
+bodyEl: constructor {dom: div#ckeditor-1060-bodyEl.x-form-item-body.x-form-item-body-default.x-form-text-field-body.x-form-teбн, id: "ckeditor-1060-bodyEl", el: constructor, longpressListenerCount: 0, $observableInitialized: true, бн}
+clearPropertiesOnDestroy: false
+clearPrototypeOnDestroy: false
+componentCls: "x-field"
+componentLayout: constructor {id: "autocomponent-179", initialConfig: {бн}, config: {бн}, layoutCount: 0, initConfig: ?, бн}
+config: {ariaAttributes: {бн}, childEls: {бн}, xtype: "ckeditor", name: "pcContent", fieldLabel: "Pc Content", бн}
+container: constructor {dom: div#form-1049-innerCt.x-autocontainer-innerCt, id: "form-1049-innerCt", el: constructor, longpressListenerCount: 0, $observableInitialized: true, бн}
+dirty: true
+editable: true
+editor: a {element: CбнR.dom.element, elementMode: 1, name: "ckeditor-1060-inputEl", _: {бн}, commands: {бн}, бн}
+el: constructor {dom: div#ckeditor-1060.x-field.x-form-item.x-form-item-default.x-form-type-text.x-field-default.x-anchorбн, id: "ckeditor-1060", el: constructor, longpressListenerCount: 0, $observableInitialized: true, бн}
+emptyClsElements: [constructor]
+emptyUICls: "x-form-empty-field x-form-empty-field-default"
+errorEl: null
+errorWrapEl: null
+eventedBeforeEventNames: {}
+events: {beforerender: constructor, errorchange: constructor, change: constructor, afterrender: constructor, validitychange: constructor, бн}
+fieldFocusCls: "x-field-focus"
+fieldLabel: "Pc Content"
+focusEl: constructor {dom: textarea#ckeditor-1060-inputEl.x-form-field.x-form-text.x-form-text-default.x-form-textarea, id: "ckeditor-1060-inputEl", el: constructor, longpressListenerCount: 0, $observableInitialized: true, бн}
+frame: undefined
+hasBindingValue: true
+hasListeners: HasListeners {beforerender: 1, errorchange: 3, change: 1, afterrender: 1, validitychange: 2, бн}
+hideTrigger: false
+id: "ckeditor-1060"
+inheritedState: {}
+initBindable: ? ()
+initConfig: ? ()
+initialConfig: {xtype: "ckeditor", name: "pcContent", fieldLabel: "Pc Content", allowBlank: true, bind: {бн}, бн}
+initialValue: ""
+inputCell: constructor {dom: div#ckeditor-1060-inputWrap.x-form-text-wrap.x-form-text-wrap-default, id: "ckeditor-1060-inputWrap", el: constructor, longpressListenerCount: 0, $observableInitialized: true, бн}
+inputEl: constructor {dom: textarea#ckeditor-1060-inputEl.x-form-field.x-form-text.x-form-text-default.x-form-textarea, id: "ckeditor-1060-inputEl", el: constructor, longpressListenerCount: 0, $observableInitialized: true, бн}
+inputId: "ckeditor-1060-inputEl"
+inputWrap: constructor {dom: div#ckeditor-1060-inputWrap.x-form-text-wrap.x-form-text-wrap-default, id: "ckeditor-1060-inputWrap", el: constructor, longpressListenerCount: 0, $observableInitialized: true, бн}
+isFirstInstance: true
+isLayoutMoving: false
+keyMapEnabled: true
+labelAlign: "right"
+labelEl: constructor {dom: label#ckeditor-1060-labelEl.x-form-item-label.x-form-item-label-default.x-form-item-label-right.x-uбн, id: "ckeditor-1060-labelEl", el: constructor, longpressListenerCount: 0, $observableInitialized: true, бн}
+labelTextEl: constructor {dom: span#ckeditor-1060-labelTextEl.x-form-item-label-text, id: "ckeditor-1060-labelTextEl", el: constructor, longpressListenerCount: 0, $observableInitialized: true, бн}
+labelWidth: 120
+lastActiveError: ""
+lastBox: null
+lastValue: "Tel: +86 755 86693232 (English Service)<br/>Service Language: English Only<br/>Service Time: 24 hours a day, 7 days a week<br/>Fee: Depending on rate of different carriers, IDD."
+listeners: null
+loader: null
+managedListeners: (6) [{бн}, {бн}, {бн}, {бн}, {бн}, {бн}]
+margin$: {left: 0, bottom: 10, right: 0, top: 0, width: 0, бн}
+name: "pcContent"
+needsMaxCheck: undefined
+onTrigger1Click: ? ()
+orderedTriggers: []
+originalValue: ""
+ownerCt: constructor {initialConfig: {бн}, $iid: 111, id: "form-1049", autoGenId: true, protoEl: null, бн}
+ownerLayout: constructor {id: "anchor-164", initialConfig: {бн}, isFirstInstance: true, config: {бн}, initConfig: ?, бн}
+placeholderLabel: null
+pluginsInitialized: true
+preventMark: false
+protoEl: null
+rawValue: "Tel: +86 755 86693232 (English Service)<br/>Service Language: English Only<br/>Service Time: 24 hours a day, 7 days a week<br/>Fee: Depending on rate of different carriers, IDD."
+renderConfigs: {3: null}
+renderData: {}
+renderTpl: constructor {initialConfig: {бн}, disableFormats: true, html: "{beforeLabelTpl}<label id="{id}-labelEl" data-ref=бнchorTarget="{tipAnchorTarget}"></div></div></tpl>", owner: constructor, renderContent: ?, бн}
+rendered: true
+rendering: null
+scrollFlags: {overflowX: "", overflowY: "", x: false, y: false, both: false}
+stateEvents: []
+subTplData: {}
+triggerCell: constructor {elements: Array(0)}
+triggerEl: constructor {elements: Array(0)}
+triggerWrap: constructor {dom: div#ckeditor-1060-triggerWrap.x-form-trigger-wrap.x-form-trigger-wrap-default, id: "ckeditor-1060-triggerWrap", el: constructor, longpressListenerCount: 0, $observableInitialized: true, бн}
+triggers: {}
+ui: "default"
+uiCls: []
+url: "category/uploadImg?isPc=true"
+usesTextInput: true
+value: "Tel: +86 755 86693232 (English Service)<br/>Service Language: English Only<br/>Service Time: 24 hours a day, 7 days a week<br/>Fee: Depending on rate of different carriers, IDD."
+wasDirty: true
+wasValid: true
+xtype: "ckeditor"
+_keyMapListener: null
+_keyMapReady: true
+_renderState: 4
+__proto__: constructor
